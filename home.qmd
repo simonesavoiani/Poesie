@@ -1,3 +1,47 @@
-# Introduction {.unnumbered}
+---
+title: "Le Leggende de Rovigo"
+format:
+  html:
+    css: styles.css
+    toc: false
+    page-layout: full
 
-Scrivo cose a caso.
+---
+
+<div class="container">
+
+# 🏰 La Citadè de Rovigo
+
+Benvenuto viandante!  
+Questa è la raccolta delle storie dimenticate, dei mostri nascosti e dei santi meccanici che abitano la nostra terra.
+
+---
+
+## 🌫️ Le Figure Misteriose
+
+- **Fogarón de Sotto**  
+  Un’entità fatta di fumo e rabbia, si narra appaia nelle notti senza luna.
+
+- **Il Mostro de la Tangenziale**  
+  Mezzo calamaro, mezzo drago. Gli automobilisti giurano di averlo visto...
+
+- **Polentón de Fegà**  
+  Un gigante triste fatto di farina gialla e fegato veneto.
+
+---
+
+## ✝️ San Marzéo del Fòss
+
+Il protettore dei meccanici e dei canaletti intasati. Con la sua chiave inglese e il crocifisso, combatte l’umidità malvagia.
+
+---
+
+## 📜 Le Storie in Arrivo
+
+- *La Battaglia del Canale Curvo*
+- *La Maledizion de l'Orologio di Piazza*
+- *Il Patto col Santo e col Polentón*
+
+[Scopri tutte le leggende →](leggende.qmd)
+
+</div>

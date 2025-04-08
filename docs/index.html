@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Benvenuto – Le leggende di Rovigo</title>
+<title>Le leggende di Rovigo</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -79,25 +79,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Benvenuto</h1>
-</div>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
-
-<div class="quarto-title-meta column-page">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
 
 
 <style>
@@ -109,20 +93,26 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 90vh;
+  height: 100vh;
   text-align: center;
   background-image: url('https://www.transparenttextures.com/patterns/old-mathematics.png');
   background-size: cover;
-  padding: 40px;
+  padding: 0 40px;
   box-sizing: border-box;
   border: 10px solid #c1a875;
   border-radius: 20px;
 }
 
+.contenitore {
+  text-align: center;
+}
+
+
 h1 {
   font-size: 2.5em;
   font-style: italic;
   text-shadow: 1px 1px #decba4;
+
 }
 
 button {
@@ -136,6 +126,7 @@ button {
   cursor: pointer;
   transition: background 0.3s;
 }
+
 button:hover {
   background-color: #8c5f3d;
 }
@@ -178,16 +169,15 @@ button:hover {
 }
 
 </style>
-<section id="te-si-sicuro-de-voler-conosere-la-legenda-de-rovigo" class="level1">
-<h1>Te si sicuro de voler conosere la Legenda de Rovigo?</h1>
-<button onclick="inizia()">
-Si, sono sicuro
-</button>
-<button onclick="chiudi()">
-No
-</button>
+<section id="il-diario-di-tarcisio-esploratore-di-rovigo" class="level1">
+<h1>Il Diario di Tarcisio, Esploratore di Rovigo</h1>
+<section id="te-si-sicuro-de-voler-conosere-la-legenda-de-rovigo" class="level2">
+<h2 class="anchored" data-anchor-id="te-si-sicuro-de-voler-conosere-la-legenda-de-rovigo">Te si sicuro de voler conosere la Legenda de Rovigo?</h2>
+<div class="contenitore">
+<p><button onclick="inizia()">Si, sono sicuro</button> <button onclick="chiudi()">No</button></p>
+</div>
 <div id="stolto-msg">
-Stolto.
+Te ghe scelto de adentrarte nea tana del biaconejo
 </div>
 <script>
 function inizia() {
@@ -201,13 +191,14 @@ function inizia() {
 function chiudi() {
   // Se non funziona, mostra un messaggio o reindirizza
   setTimeout(() => {
-    alert("Brao, non te si mona");
+    alert("Riman nell’ignoranza");
     window.location.href = 'https://google.com';
   }, 500);
 }
 </script>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

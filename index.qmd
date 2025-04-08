@@ -1,5 +1,5 @@
 ---
-title: "Benvenuto"
+title: ""
 format: html
 page-layout: full
 output-file: index.html
@@ -14,20 +14,26 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 90vh;
+  height: 100vh;
   text-align: center;
   background-image: url('https://www.transparenttextures.com/patterns/old-mathematics.png');
   background-size: cover;
-  padding: 40px;
+  padding: 0 40px;
   box-sizing: border-box;
   border: 10px solid #c1a875;
   border-radius: 20px;
 }
 
+.contenitore {
+  text-align: center;
+}
+
+
 h1 {
   font-size: 2.5em;
   font-style: italic;
   text-shadow: 1px 1px #decba4;
+
 }
 
 button {
@@ -41,6 +47,7 @@ button {
   cursor: pointer;
   transition: background 0.3s;
 }
+
 button:hover {
   background-color: #8c5f3d;
 }
@@ -83,14 +90,19 @@ button:hover {
 }
 
 </style>
+# Il Diario di Tarcisio, Esploratore di Rovigo
 
 
-# Te si sicuro de voler conosere la Legenda de Rovigo?
 
-<button onclick="inizia()">Si, sono sicuro</button>
-<button onclick="chiudi()">No</button>
+## Te si sicuro de voler conosere la Legenda de Rovigo?
 
-<div id="stolto-msg">Stolto.</div>
+<div class="contenitore">
+
+  <button onclick="inizia()">Si, sono sicuro</button>
+  <button onclick="chiudi()">No</button>
+</div>
+
+<div id="stolto-msg">Te ghe scelto de adentrarte nea tana del biaconejo</div>
 
 <script>
 function inizia() {
@@ -104,7 +116,7 @@ function inizia() {
 function chiudi() {
   // Se non funziona, mostra un messaggio o reindirizza
   setTimeout(() => {
-    alert("Brao, non te si mona");
+    alert("Riman nell’ignoranza");
     window.location.href = 'https://google.com';
   }, 500);
 }
