@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./home.html"> 
 <span class="menu-text">Trama</span></a>
   </li>  
 </ul>
@@ -206,7 +206,7 @@ button:hover {
 </style>
 <section id="te-si-sicuro-de-voler-conosere-la-legenda-de-rovigo" class="level1">
 <h1>Te si sicuro de voler conosere la Legenda de Rovigo?</h1>
-<button onclick="window.location.href='home.html'">
+<button onclick="inizia()">
 Si, sono sicuro
 </button>
 <button onclick="chiudi()">
@@ -226,13 +226,9 @@ function inizia() {
 
 <script>
 function chiudi() {
-  // Prova a chiudere la finestra
-  window.open('', '_self', '');
-  window.close();
-
   // Se non funziona, mostra un messaggio o reindirizza
   setTimeout(() => {
-    alert("Ok... magari un'altra volta 😢");
+    alert("Brao, non te si mona");
     window.location.href = 'https://google.com';
   }, 500);
 }

@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - text: "Trama"
-        href: index.qmd
+        href: home.qmd
 
 format:
   html:

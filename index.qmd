@@ -2,6 +2,7 @@
 title: "Benvenuto"
 format: html
 page-layout: full
+output-file: index.html
 ---
 
 <style>
@@ -86,7 +87,7 @@ button:hover {
 
 # Te si sicuro de voler conosere la Legenda de Rovigo?
 
-<button onclick="window.location.href='home.html'">Si, sono sicuro</button>
+<button onclick="inizia()">Si, sono sicuro</button>
 <button onclick="chiudi()">No</button>
 
 <div id="stolto-msg">Stolto.</div>
@@ -102,13 +103,9 @@ function inizia() {
 
 <script>
 function chiudi() {
-  // Prova a chiudere la finestra
-  window.open('', '_self', '');
-  window.close();
-
   // Se non funziona, mostra un messaggio o reindirizza
   setTimeout(() => {
-    alert("Ok... magari un'altra volta 😢");
+    alert("Brao, non te si mona");
     window.location.href = 'https://google.com';
   }, 500);
 }
