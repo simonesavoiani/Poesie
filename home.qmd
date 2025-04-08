@@ -1,14 +1,15 @@
 ---
-title: "Le Leggende de Rovigo"
+title: "Il Diario di Tarcisio, Esploratore di Rovigo"
 format:
   html:
-    css: styles.css
+    css: custom.css
     toc: false
     page-layout: full
-
+    
+    self-contained: true
+    embed-resources: true
 ---
 
-<div class="container">
 
 # 🏰 La Citadè de Rovigo
 
@@ -42,6 +43,3 @@ Il protettore dei meccanici e dei canaletti intasati. Con la sua chiave inglese 
 - *La Maledizion de l'Orologio di Piazza*
 - *Il Patto col Santo e col Polentón*
 
-[Scopri tutte le leggende →](leggende.qmd)
-
-</div>

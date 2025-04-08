@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&family=MedievalSharp&display=swap');
+
+body {
+  background-color: #f0e6d2;
+  background-image: url('https://www.transparenttextures.com/patterns/paper-fibers.png'); /* texture carta */
+  font-family: 'IM Fell English', serif;
+  color: #2c1f0f;
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  font-family: 'MedievalSharp', cursive;
+  color: #1a1209;
+  text-shadow: 1px 1px #d1c4a2;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: rgba(255, 248, 220, 0.85);
+  border: 2px solid #8b6f47;
+  border-radius: 10px;
+  box-shadow: 4px 4px 10px rgba(0,0,0,0.2);
+  padding: 2rem;
+}
+
+a {
+  color: #5e3b1d;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #8b6f47;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #a38b64;
+  margin: 2rem 0;
+}

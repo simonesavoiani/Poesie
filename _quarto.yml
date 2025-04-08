@@ -3,10 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Le leggende di Rovigo"
+  title: "Le Cronache di Rovigo"
+  
+sidebar:
+  style: "floating"
+  search: true
+  contents:
+    - home.qmd
+    - ep_1.qmd
 
 format:
   html:
     theme: default
-    css: styles/custom.css
-    js: scripts/custom.js
+    css: custom.css
+    js: custom.js
