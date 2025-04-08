@@ -10,6 +10,7 @@ format:
     embed-resources: true
 ---
 
+
 Da adesso, entriamo nel mondo di Rovigo, la città mitica e maledetta, attraverso gli occhi e la penna di un avventuriero solitario: un uomo (o forse non più del tutto umano) che ha deciso di raccogliere le storie, i miti e gli orrori di questo luogo dimenticato.
 
 

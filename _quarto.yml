@@ -4,14 +4,22 @@ project:
 
 website:
   title: "Il Diario di Tarcisio, Esploratore di Rovigo"
+  page-navigation: true
+  back-to-top-navigation: true
   sidebar:
     style: "floating"
+    search: false
     contents:
-      - home.qmd
-      - leggende/ep_1.qmd
+      - text: "Introduzione"
+        href: home.qmd
+      - text: "Prima Leggenda"
+        href: leggende/ep_1.qmd
 
 format:
   html:
     theme: default
-    css: custom.css
-    js: custom.js
+
+include-after-body:
+  text: |
+    <script type="application/javascript" src="custom.js"></script>
+    <link rel="stylesheet" href="custom.css" />

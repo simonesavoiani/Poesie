@@ -4,6 +4,7 @@ format: html
 page-layout: full
 sidebar: false
 output-file: index.html
+page-navigation: false
 ---
 
 <style>
