@@ -2,6 +2,7 @@
 title: ""
 format: html
 page-layout: full
+sidebar: false
 output-file: index.html
 ---
 

@@ -4,13 +4,12 @@ project:
 
 website:
   title: "Le Cronache di Rovigo"
-  
-sidebar:
-  style: "floating"
-  search: true
-  contents:
-    - home.qmd
-    - ep_1.qmd
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - home.qmd
+      - leggende/ep_1.qmd
 
 format:
   html:
