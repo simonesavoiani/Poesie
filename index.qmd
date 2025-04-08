@@ -1,3 +1,40 @@
-# Introduction {.unnumbered}
+---
+title: "Benvenuto"
+format: html
+page-layout: full
+---
 
-Scrivo cose a caso.
+<style>
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Courier New', monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  text-align: center;
+}
+h1 {
+  font-size: 2.5em;
+}
+button {
+  margin-top: 30px;
+  padding: 15px 30px;
+  font-size: 1.2em;
+  background-color: #1f1f1f;
+  color: white;
+  border: 2px solid white;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+button:hover {
+  background-color: #444;
+}
+</style>
+
+# Sito sicuro de volere conosere la Legenda de Rovigo?
+
+<button onclick="window.location.href='home.html'">Sì!</button>
