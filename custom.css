@@ -1,12 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&family=MedievalSharp&display=swap');
+@font-face {
+  font-family: 'IM Fell English';
+  src: url("fonts\im-fell-english-v14-latin-regular.woff2") format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'MedievalSharp';
+  src: url("fonts\medievalsharp-v26-latin-regular.woff2") format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
 
 body {
   background-color: #f0e6d2;
-  background-image: url('https://www.transparenttextures.com/patterns/paper-fibers.png'); /* texture carta */
+  background-image: url("images\paper-fibers.png.png");
   font-family: 'IM Fell English', serif;
   color: #2c1f0f;
   line-height: 1.6;
   padding: 2rem;
+  
+  position: absolute;
+  left: 500;
+  right: 500;
 }
 
 h1, h2, h3 {
@@ -88,7 +109,6 @@ hr {
 
 
 
-/* Aggiungi una nuova posizione per il bottone */
 #menu-toggle {
   position: fixed;
   top: 20px;
@@ -98,19 +118,29 @@ hr {
   padding: 10px 15px;
   font-size: 1.5rem;
   cursor: pointer;
-  z-index: 1001; /* Assicurati che sia sopra la sidebar */
+  z-index: 999; /* Meno della sidebar (che è 1000), così la sidebar lo copre */
   box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
-  transition: background-color 0.3s, transform 0.3s ease;
+  transition: left 0.3s ease, background-color 0.3s, transform 0.3s ease;
 }
 
-/* Aggiungi una distanza dal lato sinistro e superiore, altrimenti il bottone si sovrappone alla sidebar */
-#menu-toggle {
-  left: 20px;  /* Posiziona il bottone un po' lontano dal lato */
-  top: 20px;   /* Posizione dal bordo superiore */
-}
-
-/* Al passaggio del mouse, ingrandisci il bottone */
 #menu-toggle:hover {
   background-color: #8b6f47;
-  transform: scale(1.1); /* Leggera animazione di ingrandimento */
+  transform: scale(1.1);
+}
+
+#sidebar-close {
+  background-color: #f0e6d2;
+  border: 2px solid #8b6f47;
+  padding: 8px 12px;
+  font-size: 1rem;
+  cursor: pointer;
+  font-family: 'MedievalSharp', cursive;
+  width: 100%;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.15);
+  transition: background-color 0.3s;
+}
+
+#sidebar-close:hover {
+  background-color: #8b6f47;
+  color: white;
 }

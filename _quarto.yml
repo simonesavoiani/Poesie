@@ -1,11 +1,20 @@
 project:
   type: website
-  output-dir: docs
+  render: 
+    - index.qmd
+    - home.qmd
+    - ep_1.qmd
+    - ep_2.qmd
+    - ep_3.qmd
+    - ep_4.qmd
+    - ep_5.qmd
+    - ep_6.qmd
+    - ep_7.qmd
+    
 
 website:
   title: "Il Diario di Tarcisio, Esploratore di Rovigo"
   page-navigation: true
-  back-to-top-navigation: true
   sidebar:
     style: "floating"
     search: false
@@ -13,11 +22,24 @@ website:
       - text: "Introduzione"
         href: home.qmd
       - text: "Prima Leggenda"
-        href: leggende/ep_1.qmd
+        href: ep_1.qmd
+      - text: "Seconda Leggenda"
+        href: ep_2.qmd
+      - text: "Terza Leggenda"
+        href: ep_3.qmd
+      - text: "Quarta Leggenda"
+        href: ep_4.qmd
+      - text: "Quinta Leggenda"
+        href: ep_5.qmd
+      - text: "Sesta Leggenda"
+        href: ep_6.qmd
+      - text: "Settimana Leggenda"
+        href: ep_7.qmd
 
 format:
   html:
     theme: default
+    css: custom.css
 
 include-after-body:
   text: |

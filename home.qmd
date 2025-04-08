@@ -2,7 +2,8 @@
 title: "Le Cronache di Rovigo"
 format:
   html:
-    css: custom.css
+    css: "custom.css"
+    js: "custom.js"
     toc: false
     page-layout: full
     
@@ -29,3 +30,4 @@ Da adesso, entriamo nel mondo di Rovigo, la città mitica e maledetta, attravers
 **Obiettivo:** documentare la verità su Rovigo e le sue creature, prima che la nebbia lo reclami
 
 ---
+

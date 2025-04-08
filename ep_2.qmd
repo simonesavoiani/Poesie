@@ -1,0 +1,31 @@
+---
+title: "El Mostro de la Tangenziale"
+format:
+  html:
+    css: "custom.css"
+    js: "custom.js"
+    toc: false
+    page-layout: full
+    
+    self-contained: true
+    embed-resources: true
+---
+
+**Datazione: ** Settima sera – La nebbia sa già il mio nome
+
+**Luogo: ** Tangenziale Ovest (chiusa ai veicoli, ma non a chi cerca risposte)
+
+
+Annotazione n°2:
+
+Ci sono posti dove non dovrebbe camminare nessuno. La tangenziale di Rovigo è uno di quelli. La chiamano strada, ma non porta in nessun luogo. Cammini per ore e ti sembra sempre lo stesso svincolo. Le stesse scritte sbiadite. Lo stesso silenzio che sfrigola sotto ai lampioni spenti.
+
+Stanotte l’ho percorsa a piedi, senza sapere perché. I cani non abbaiavano. L’asfalto sotto gli scarponi sembrava più caldo del cielo. E per un attimo, ho pensato di non essere più solo.
+
+C’è una leggenda che gira tra gli operai dell’Anas, tra i vecchi che si ricordano com’era Rovigo prima che smettesse di obbedire alle mappe. Parla di una creatura che vive nella tangenziale: el Mostro, lo chiamano semplicemente così, o anche el che camina coi fari spenti.
+
+Non corre. Non ruggisce. Cammina piano, sempre a pochi passi dietro. Alcuni dicono che è fatto di paraurti dimenticati e tubi rotti, ma io credo sia fatto d’altro. Di ritardi. Di viaggi mai cominciati. Di tutte le strade prese solo per scappare da qualcosa.
+
+Stasera l’ho sentito. Non l’ho visto. Ma c’era. Passi lenti, regolari, pesanti. Mai un suono di respiro. Solo ferro e attesa.
+
+Ho lasciato la tangenziale prima che il mio nome cambiasse. Qui succede anche questo, pare.

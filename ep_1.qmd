@@ -1,0 +1,28 @@
+---
+title: "La prima Nebbia"
+format:
+  html:
+    css: "custom.css"
+    js: "custom.js"
+    toc: false
+    page-layout: full
+    
+    self-contained: true
+    embed-resources: true
+---
+
+**Datazione: ** Terza nebbia di Novembre, durante la Luna Grassa
+
+**Luogo: ** Confini orientali della Rovigo che non esiste
+
+Annotazione n°1:
+
+“Mi chiamo Tarcisio, e se leggete queste righe, o siete matti… o ci siete già finiti dentro.”
+
+“Sono entrato a Rovigo da solo. Con me avevo solo la borraccia, il taccuino, e na pagnotta dura come la giunta comunale. Nessuna mappa l’ha mai segnata giusta, Rovigo. La città si muove, respira. La senti prima co’ le ossa che co’ i oci. Ma quella notte… la prima notte… la vidi.”
+
+“Nebbia. Tanta. Ma no la nebbia normale. Sta roba te la ciama, te la cocola, te la dice piano: ‘Véni, che te mostro ‘na roba…’.”
+
+“E l’ho vista: la Torre de le Lamentèle. Alta, fatta co i moduli dei CAF, le finestre co i vetri sporchi de CV e dentro… solo voci. Voci che sbuffa e lamenta: ‘Ghe xe troppe tasse’, ‘Manca la fibra’, ‘L’ospedale l’è sparìo’. Le voci no xe umane, ma te le riconossi. Perché ogni Rovigotto ghe la dentro.”
+
+“Ghe son rimasto sotto tre ore. O tre anni. Dura dirlo. Ma quando son uscito, el berretto me parlava. E ghe la con me.”

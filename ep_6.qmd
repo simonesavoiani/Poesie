@@ -1,0 +1,20 @@
+---
+title: "Il Diario di Tarcisio, Esploratore di Rovigo"
+format:
+  html:
+    css: "custom.css"
+    js: "custom.js"
+    toc: false
+    page-layout: full
+    
+    self-contained: true
+    embed-resources: true
+---
+
+# Prova
+
+## Prova prova
+
+### Prova Prova Prova
+
+prova prova prova prova

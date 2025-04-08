@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'IM Fell English';
+  src: url("fonts\im-fell-english-v14-latin-regular.woff2") format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'MedievalSharp';
+  src: url("fonts\medievalsharp-v26-latin-regular.woff2") format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+body {
+  background-color: #f0e6d2;
+  background-image: url("images\paper-fibers.png.png");
+  font-family: 'IM Fell English', serif;
+  color: #2c1f0f;
+  line-height: 1.6;
+  padding: 2rem;
+  
+  position: absolute;
+  left: 500;
+  right: 500;
+}
+
+h1, h2, h3 {
+  font-family: 'MedievalSharp', cursive;
+  color: #1a1209;
+  text-shadow: 1px 1px #d1c4a2;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: rgba(255, 248, 220, 0.85);
+  border: 2px solid #8b6f47;
+  border-radius: 10px;
+  box-shadow: 4px 4px 10px rgba(0,0,0,0.2);
+  padding: 2rem;
+}
+
+a {
+  color: #5e3b1d;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #8b6f47;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #a38b64;
+  margin: 2rem 0;
+}
+
+/* Stile generale della sidebar */
+.quarto-sidebar-collapse-item {
+  background-color: rgba(255, 248, 220, 0.95); /* Sfondo simile alla pagina */
+  color: #2c1f0f; /* Colore del testo */
+  border-right: 2px solid #8b6f47; /* Bordo laterale scuro */
+  padding: 1rem;
+  width: 250px; /* Larghezza fissa della sidebar */
+  position: fixed; /* Fissato a sinistra */
+  top: 0;
+  left: -250px; /* Inizialmente nascosta */
+  height: 100vh; /* Altezza completa */
+  overflow-y: auto; /* Scorrimento verticale */
+  transition: left 0.3s ease; /* Transizione morbida per il movimento */
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); /* Leggera ombra per profondità */
+  z-index: 1000; /* Assicurati che sia sopra il contenuto */
+}
+
+/* Sidebar visibile */
+.quarto-sidebar-collapse-item.show {
+  left: 0; /* La sidebar scivola a sinistra */
+}
+
+/* Stile per il contenuto della sidebar */
+.quarto-sidebar-collapse-item ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.quarto-sidebar-collapse-item ul li {
+  margin: 1rem 0;
+}
+
+.quarto-sidebar-collapse-item ul li a {
+  color: #1a1209; /* Colore scuro per i link */
+  font-family: 'MedievalSharp', cursive; /* Font in stile medievale */
+  text-decoration: none;
+  font-size: 1.1rem;
+  transition: color 0.2s ease;
+}
+
+.quarto-sidebar-collapse-item ul li a:hover {
+  color: #8b6f47; /* Colore del link al passaggio del mouse */
+}
+
+
+
+#menu-toggle {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  background-color: #f0e6d2;
+  border: 2px solid #8b6f47;
+  padding: 10px 15px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  z-index: 999; /* Meno della sidebar (che è 1000), così la sidebar lo copre */
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
+  transition: left 0.3s ease, background-color 0.3s, transform 0.3s ease;
+}
+
+#menu-toggle:hover {
+  background-color: #8b6f47;
+  transform: scale(1.1);
+}
+
+#sidebar-close {
+  background-color: #f0e6d2;
+  border: 2px solid #8b6f47;
+  padding: 8px 12px;
+  font-size: 1rem;
+  cursor: pointer;
+  font-family: 'MedievalSharp', cursive;
+  width: 100%;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.15);
+  transition: background-color 0.3s;
+}
+
+#sidebar-close:hover {
+  background-color: #8b6f47;
+  color: white;
+}
