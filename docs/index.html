@@ -156,11 +156,29 @@ button:hover {
   background-color: #444;
 }
 </style>
+<p>/</p>
+<p>/</p>
 <section id="sito-sicuro-de-volere-conosere-la-legenda-de-rovigo" class="level1">
 <h1>Sito sicuro de volere conosere la Legenda de Rovigo?</h1>
 <button onclick="window.location.href='home.html'">
 Sì!
 </button>
+<button onclick="chiudi()">
+No
+</button>
+<script>
+function chiudi() {
+  // Prova a chiudere la finestra
+  window.open('', '_self', '');
+  window.close();
+
+  // Se non funziona, mostra un messaggio o reindirizza
+  setTimeout(() => {
+    alert("Ok... magari un'altra volta 😢");
+    window.location.href = 'https://google.com';
+  }, 500);
+}
+</script>
 
 
 </section>
