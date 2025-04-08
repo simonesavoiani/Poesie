@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Le leggende di Rovigo"
+  navbar:
+    left:
+      - text: "Trama"
+        href: index.qmd
+
+format:
+  html:
+    theme: default
+    css: styles/custom.css
+    js: scripts/custom.js
