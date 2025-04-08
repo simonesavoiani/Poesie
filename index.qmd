@@ -6,43 +6,99 @@ page-layout: full
 
 <style>
 body {
-  background-color: black;
-  color: white;
-  font-family: 'Courier New', monospace;
+  background-color: #f4ecd8;
+  color: #3e2f1c;
+  font-family: 'Georgia', serif;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 90vh;
   text-align: center;
+  background-image: url('https://www.transparenttextures.com/patterns/old-mathematics.png');
+  background-size: cover;
+  padding: 40px;
+  box-sizing: border-box;
+  border: 10px solid #c1a875;
+  border-radius: 20px;
 }
+
 h1 {
   font-size: 2.5em;
+  font-style: italic;
+  text-shadow: 1px 1px #decba4;
 }
+
 button {
-  margin-top: 30px;
+  margin: 15px;
   padding: 15px 30px;
   font-size: 1.2em;
-  background-color: #1f1f1f;
+  background-color: #b4845c;
   color: white;
-  border: 2px solid white;
-  border-radius: 12px;
+  border: 2px solid #5a3e2b;
+  border-radius: 10px;
   cursor: pointer;
-  transition: 0.3s;
+  transition: background 0.3s;
 }
 button:hover {
-  background-color: #444;
+  background-color: #8c5f3d;
 }
+
+#stolto-msg {
+  display: none;
+  font-size: 2.8em;
+  color: darkred;
+  font-style: italic;
+  animation: glitch 1s infinite;
+  margin-top: 30px;
+}
+
+
+@keyframes glitch {
+  0% {
+    text-shadow: 2px 0 red, -2px 0 blue;
+    transform: translate(0);
+  }
+  20% {
+    text-shadow: -2px -2px red, 2px 2px blue;
+    transform: translate(-2px, 2px);
+  }
+  40% {
+    text-shadow: 2px 2px red, -2px -2px blue;
+    transform: translate(2px, -2px);
+  }
+  60% {
+    text-shadow: -1px 1px red, 1px -1px blue;
+    transform: translate(1px, 1px);
+  }
+  80% {
+    text-shadow: 1px -1px red, -1px 1px blue;
+    transform: translate(-1px, -1px);
+  }
+  100% {
+    text-shadow: 2px 0 red, -2px 0 blue;
+    transform: translate(0);
+  }
+}
+
 </style>
 
-/
 
-/
+# Te si sicuro de voler conosere la Legenda de Rovigo?
 
-# Sito sicuro de volere conosere la Legenda de Rovigo?
-
-<button onclick="window.location.href='home.html'">Sì!</button>
+<button onclick="window.location.href='home.html'">Si, sono sicuro</button>
 <button onclick="chiudi()">No</button>
+
+<div id="stolto-msg">Stolto.</div>
+
+<script>
+function inizia() {
+  document.querySelectorAll('button').forEach(btn => btn.style.display = 'none');
+  document.getElementById('stolto-msg').style.display = 'block';
+  setTimeout(() => {
+    window.location.href = 'home.html';
+  }, 5000);
+}
 
 <script>
 function chiudi() {
