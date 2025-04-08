@@ -1,5 +1,5 @@
 ---
-title: "Il Diario di Tarcisio, Esploratore di Rovigo"
+title: "Le Cronache di Rovigo"
 format:
   html:
     css: custom.css
@@ -10,36 +10,21 @@ format:
     embed-resources: true
 ---
 
+Da adesso, entriamo nel mondo di Rovigo, la città mitica e maledetta, attraverso gli occhi e la penna di un avventuriero solitario: un uomo (o forse non più del tutto umano) che ha deciso di raccogliere le storie, i miti e gli orrori di questo luogo dimenticato.
 
-# 🏰 La Citadè de Rovigo
-
-Benvenuto viandante!  
-Questa è la raccolta delle storie dimenticate, dei mostri nascosti e dei santi meccanici che abitano la nostra terra.
 
 ---
 
-## 🌫️ Le Figure Misteriose
+## Presentazione del Personaggio:
 
-- **Fogarón de Sotto**  
-  Un’entità fatta di fumo e rabbia, si narra appaia nelle notti senza luna.
+**Nome:** Tarcisio Della Palude
 
-- **Il Mostro de la Tangenziale**  
-  Mezzo calamaro, mezzo drago. Gli automobilisti giurano di averlo visto...
+**Professione:** Avventuriero, raccoglitore di leggende, ex impiegato delle Poste
 
-- **Polentón de Fegà**  
-  Un gigante triste fatto di farina gialla e fegato veneto.
+**Età apparente:** tra i 47 e i 600 anni
 
----
+**Segni particolari:** cammina sempre con un taccuino di pelle umana conciata male, odora di pioggia e caffè nero, indossa un berretto che pare vivo
 
-## ✝️ San Marzéo del Fòss
-
-Il protettore dei meccanici e dei canaletti intasati. Con la sua chiave inglese e il crocifisso, combatte l’umidità malvagia.
+**Obiettivo:** documentare la verità su Rovigo e le sue creature, prima che la nebbia lo reclami
 
 ---
-
-## 📜 Le Storie in Arrivo
-
-- *La Battaglia del Canale Curvo*
-- *La Maledizion de l'Orologio di Piazza*
-- *Il Patto col Santo e col Polentón*
-

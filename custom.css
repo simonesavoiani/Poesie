@@ -40,3 +40,40 @@ hr {
   background: #a38b64;
   margin: 2rem 0;
 }
+
+/* Sidebar nascosta di default */
+.sidebar {
+  position: fixed;
+  left: -260px;
+  top: 0;
+  width: 240px;
+  height: 100%;
+  background-color: rgba(255, 248, 220, 0.95);
+  border-right: 2px solid #8b6f47;
+  box-shadow: 4px 0 10px rgba(0,0,0,0.2);
+  padding: 1rem;
+  transition: left 0.3s ease;
+  font-family: 'IM Fell English', serif;
+  z-index: 1000;
+}
+
+/* Mostra sidebar */
+.sidebar.show {
+  left: 0;
+}
+
+/* Bottone menu */
+#menu-toggle {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  background-color: #8b6f47;
+  color: #fff8dc;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'MedievalSharp', cursive;
+  z-index: 1100;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.2);
+}

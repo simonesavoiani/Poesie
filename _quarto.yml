@@ -3,10 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Le Cronache di Rovigo"
+  title: "Il Diario di Tarcisio, Esploratore di Rovigo"
   sidebar:
     style: "floating"
-    search: true
     contents:
       - home.qmd
       - leggende/ep_1.qmd
