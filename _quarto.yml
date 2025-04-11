@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   render: 
     - index.qmd
     - home.qmd
@@ -10,7 +11,6 @@ project:
     - ep_5.qmd
     - ep_6.qmd
     - ep_7.qmd
-    
 
 website:
   title: "Il Diario di Tarcisio, Esploratore di Rovigo"
