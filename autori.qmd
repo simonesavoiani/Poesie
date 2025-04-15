@@ -1,0 +1,67 @@
+---
+title: "Autori"
+format:
+  html:
+    css: "custom.css"
+    js: "custom.js"
+    toc: false
+    page-layout: full
+    self-contained: true
+    embed-resources: true
+---
+
+Gli autori di questa magica storia. Senza di loro, nessuno sarebbe mai venuto a conoscenza della spaventosa **Rovigo**.
+
+---
+
+<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; margin-bottom: 3rem;">
+
+<!-- Nicholas - Testo -->
+<div style="flex: 1 1 60ch; min-width: 280px;">
+  
+### Nicholas Gecchele
+
+Il più figo dei fighi. Studente di psicologia, ottimo cittadino modello, odiatore profondo di Trenitalia, rappresentante degli studenti di psicologia, ma SOPPRATUTTO è **presidente del mondo**. Ama poche cose, tra cui Freud e l'Hot Pot.  
+Se volete conoscerlo meglio, clicca [qui](https://www.instagram.com/nicholas.gecchele?igsh=MTFtcmJndWd5YTIyZA==)
+
+</div>
+
+<!-- Nicholas - Immagine -->
+<div style="flex: 1 1 250px; text-align: center;">
+  <img src="nicho.jpg" alt="Nicholas Gecchele" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</div>
+
+</div>
+
+---
+
+<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; margin-bottom: 3rem;">
+
+<!-- Simone - Testo -->
+<div style="flex: 1 1 60ch; min-width: 280px;">
+
+### Simone Savoiani
+
+Ama R. Ci sono altre cose da sapere? L'amore per R è la cosa più preziosa che una persona possa avere. No R No party.  
+Se anche tu ami R, clicca [qui](https://www.instagram.com/simo_savoiani?igsh=MWg5emhzdno1NWpmeg==).
+
+</div>
+
+<!-- Simone - Immagine -->
+<div style="flex: 1 1 250px; text-align: center;">
+  <img src="simo.png" alt="Simone Savoiani" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</div>
+
+</div>
+
+---
+
+Ringraziamo molto poi anche il nostro amico Chatty ❤️. Senza di lui quasi niente di tutto questo sarebbe possibile.
+
+*Il sito è scritto in R*
+
+::: {.back-to-home}
+<a href="home.html" title="Torna alla home">
+  Torna all'Introduzione
+</a>
+:::

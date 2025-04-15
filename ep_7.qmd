@@ -1,5 +1,5 @@
 ---
-title: "Il Diario di Tarcisio, Esploratore di Rovigo"
+title: "El Polentòn de Fegà"
 format:
   html:
     css: "custom.css"
@@ -11,10 +11,34 @@ format:
     embed-resources: true
 ---
 
-# Prova
+**Datazione: ** Notte del diciassettesimo giorno – umido come un piatto lasciato nel lavandino
 
-## Prova prova
+**Luogo: ** Corte Malora, frazione che appare solo quando il cielo ha fame
 
-### Prova Prova Prova
 
-prova prova prova prova
+**Annotazione n°7:**
+
+La nebbia m’ha guidà fin là, come fa co’ i cani quando i scappa via e i vole far capire qualcosa. Nessuna indicazione. Solo una curva dopo l’altra, e un cartello mezzo coperto dalla terra: “Corte Malora”. Nessuno in giro. Solo il rintocco del campanile, uno solo, secco. Ma era mezzanotte e tre. Nessun campanile suona a quell’ora.
+
+Poi, in mezzo ai campi molli… l’ho visto.
+
+Una bestia alta più di una casa bassa, fatta de polenta vecia, screpolata, che colava lenta come lava gialla. Dentro si senteva l’odore dolciastro e cattivo del fegato alla veneziana, come quelo che i veci faceva nei giorni de festa sbagliata. Le braccia de stòpa, lunghe e secche, raschiava per terra.
+
+E quei oci là…
+Doi punti rossi, accesi, rotondi come fanali de trattore che no si è mai fermato.
+
+Brontolava. Un suono fondo, basso, che pareva venisse dal ventre del campo stesso. Dice che brontola da secoli, perché nessuno l’ha mai finìo. Che l’han lascià lì, a metà cena, e lui s’è alzà in piedi.
+
+“Chi lascia la polenta… la polenta non lo lascia.”
+
+Così dicono. E così scrivo.
+
+L’ho visto passare davanti a una casa vuota, e la casa… s’è spenta. Tutta. Come se non fosse mai esistita. Io mi son nascosto tra le sterpaglie. E lì ho aspettà che passasse.
+
+Quando il rintocco s’è fermato, anche lui s’è fermà. E s’è disfà, pezzo a pezzo, tornando in terra.
+
+Domani mi alzerò presto e proseguirò. Ma da stanotte… ogni volta che sento odore de fegato nell’aria, guardo prima per terra. E poi in alto.
+
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="7.jpg" alt="Prima Nebbia" style="max-width: 50%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>

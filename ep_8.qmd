@@ -1,0 +1,71 @@
+---
+title: "El Tombin e i Fogarón de Sotto"
+format:
+  html:
+    css: "custom.css"
+    js: "custom.js"
+    toc: false
+    page-layout: full
+    
+    self-contained: true
+    embed-resources: true
+---
+
+**Datazione: ** Notte del diciottesimo giorno – umidità nelle ossa, anche se no piove
+
+**Luogo: ** Periferia sud, zona industriale vecia – vicino al cavalcavia morto
+
+
+**Annotazione n°8:**
+
+La scia del Polentòn finiva là.
+Tra i sterpi secchi e l’asfalto che si sfalda, l’ho seguita. Era una striscia untuosa, color d’oro marcio, come olio lascià al sole.
+
+Mi andavo piano, coi passi stretti. Non parlava più niente, neanche i cani.
+E quando son rivà, el segno finiva dentro un tombin.
+
+Un tombino col coperchio scaldà. Ma era mezzanotte passà, e là sotto, ghe pareva che qualcosa respirasse piano.
+
+Mi me son inchinà a metà, giusto per guardar…e là l’ho capito.
+
+No era scappà.
+No s’era disfà.
+El Polentòn usava il tombino per farse seguire.
+
+Na trappola.
+Chi guarda dentro… sparisse.
+Mi no l’ho fatto.
+
+Poi… silenzio. Quelo vero, che fa rumore. E subito dopo, un fruscio. No vento. Qualcosa de più stretto, de più secco.
+
+Me son voltà.
+
+---
+
+Lì, in fondo al cortile industriale, tra i container arrugginiti, stava qualcosa.
+I Fogaròn de Sotto, alte figure, fatte de fumo scuro e brace, come ombra de fornasa.
+
+No camminava.
+Pareva scivolar via, come se la terra li evitasse.
+Gli occhi — bianchi, piantà in me — non lampeggiavano, ma ardevano fissi.
+
+Stava lì. Senza far niente.
+Mi stavo fermo. Senza pensar.
+
+Poi… un movimento. Una specie de fremito, come se il cemento avesse tossito.
+E… sparì.
+
+---
+
+No ho sentito passi, no sbatocchi, no schèi de catene. Solo che a un certo punto, no c’erano più.
+
+Forse non c’erano mai stati.
+
+---
+
+“A Rovigo le robe più pericolose le xe quelle che no te puoi raccontar a nessun.”
+
+
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="8.jpg" alt="Prima Nebbia" style="max-width: 50%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>

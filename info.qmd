@@ -1,0 +1,34 @@
+---
+title: "Informazioni"
+format:
+  html:
+    css: "custom.css"
+    js: "custom.js"
+    toc: false
+    page-layout: full
+    
+    self-contained: true
+    embed-resources: true
+---
+
+---
+
+## Tarcisio l'espolatore 
+
+**Nome:** Tarcisio Della Palude
+
+**Professione:** Avventuriero, raccoglitore di leggende, ex impiegato delle Poste
+
+**Età apparente:** tra i 47 e i 600 anni
+
+**Segni particolari:** cammina sempre con un taccuino di pelle umana conciata male, odora di pioggia e caffè nero, indossa un berretto che pare vivo
+
+**Obiettivo:** documentare la verità su Rovigo e le sue creature, prima che la nebbia lo reclami
+
+---
+
+::: {.back-to-home}
+<a href="home.html" title="Torna alla home">
+  Torna all'Introduzione
+</a>
+:::

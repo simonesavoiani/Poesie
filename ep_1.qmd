@@ -15,7 +15,7 @@ format:
 
 **Luogo: ** Confini orientali della Rovigo che non esiste
 
-Annotazione n°1:
+**Annotazione n°1:**
 
 “Mi chiamo Tarcisio, e se leggete queste righe, o siete matti… o ci siete già finiti dentro.”
 
@@ -26,3 +26,8 @@ Annotazione n°1:
 “E l’ho vista: la Torre de le Lamentèle. Alta, fatta co i moduli dei CAF, le finestre co i vetri sporchi de CV e dentro… solo voci. Voci che sbuffa e lamenta: ‘Ghe xe troppe tasse’, ‘Manca la fibra’, ‘L’ospedale l’è sparìo’. Le voci no xe umane, ma te le riconossi. Perché ogni Rovigotto ghe la dentro.”
 
 “Ghe son rimasto sotto tre ore. O tre anni. Dura dirlo. Ma quando son uscito, el berretto me parlava. E ghe la con me.”
+
+
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="1.jpg" alt="Prima Nebbia" style="max-width: 50%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>

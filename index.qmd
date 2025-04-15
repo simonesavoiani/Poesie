@@ -1,41 +1,28 @@
 ---
 title: ""
-format: html
-page-layout: full
-sidebar: false
-output-file: index.html
-page-navigation: false
+format:
+  html:
+    css: "custom.css"
+    js: "custom.js"
+    toc: false
+    page-layout: full
+    
+    self-contained: true
+    embed-resources: true
+    sidebar: false
+    page-navigation: false
 ---
 
 <style>
-body {
-  background-color: #f4ecd8;
-  color: #3e2f1c;
-  font-family: 'Georgia', serif;
+
+.centered-page {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  height: 100vh;
+  justify-content: center;
+  min-height: 90vh;
   text-align: center;
-  background-image: url('https://www.transparenttextures.com/patterns/old-mathematics.png');
-  background-size: cover;
-  padding: 0 40px;
-  box-sizing: border-box;
-  border: 10px solid #c1a875;
-  border-radius: 20px;
-}
-
-.contenitore {
-  text-align: center;
-}
-
-
-h1 {
-  font-size: 2.5em;
-  font-style: italic;
-  text-shadow: 1px 1px #decba4;
-
+  padding: 2rem;
 }
 
 button {
@@ -63,7 +50,6 @@ button:hover {
   margin-top: 30px;
 }
 
-
 @keyframes glitch {
   0% {
     text-shadow: 2px 0 red, -2px 0 green;
@@ -90,21 +76,22 @@ button:hover {
     transform: translate(0);
   }
 }
-
 </style>
+
+<div class="centered-page">
+
 # Il Diario di Tarcisio, Esploratore di Rovigo
 
-
-
-## Te si sicuro de voler conosere la Legenda de Rovigo?
+### Te si sicuro de voler conosere la Legenda de Rovigo?
 
 <div class="contenitore">
-
   <button onclick="inizia()">Si, sono sicuro</button>
   <button onclick="chiudi()">No</button>
 </div>
 
 <div id="stolto-msg">Te ghe scelto de adentrarte nea tana del biaconejo</div>
+
+</div>
 
 <script>
 function inizia() {
@@ -112,11 +99,10 @@ function inizia() {
   document.getElementById('stolto-msg').style.display = 'block';
   setTimeout(() => {
     window.location.href = 'home.html';
-  }, 2000);
+  }, 3000);
 }
 
 function chiudi() {
-  // Se non funziona, mostra un messaggio o reindirizza
   setTimeout(() => {
     alert("Riman nell’ignoranza");
     window.location.href = 'https://google.com';

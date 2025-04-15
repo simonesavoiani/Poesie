@@ -37,3 +37,6 @@ document.addEventListener("DOMContentLoaded", function () {
     menuToggle.style.display = "block"; // Rendi visibile di nuovo il bottone menu
   });
 });
+
+
+

@@ -16,7 +16,7 @@ format:
 **Luogo: ** Tangenziale Ovest (chiusa ai veicoli, ma non a chi cerca risposte)
 
 
-Annotazione n°2:
+**Annotazione n°2:**
 
 Ci sono posti dove non dovrebbe camminare nessuno. La tangenziale di Rovigo è uno di quelli. La chiamano strada, ma non porta in nessun luogo. Cammini per ore e ti sembra sempre lo stesso svincolo. Le stesse scritte sbiadite. Lo stesso silenzio che sfrigola sotto ai lampioni spenti.
 
@@ -29,3 +29,7 @@ Non corre. Non ruggisce. Cammina piano, sempre a pochi passi dietro. Alcuni dico
 Stasera l’ho sentito. Non l’ho visto. Ma c’era. Passi lenti, regolari, pesanti. Mai un suono di respiro. Solo ferro e attesa.
 
 Ho lasciato la tangenziale prima che il mio nome cambiasse. Qui succede anche questo, pare.
+
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="2.jpg" alt="Prima Nebbia" style="max-width: 50%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>

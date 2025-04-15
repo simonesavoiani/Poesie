@@ -1,0 +1,71 @@
+---
+title: "Mappa"
+format:
+  html:
+    css: "custom.css"
+    js: "custom.js"
+    toc: false
+    page-layout: full
+    self-contained: true
+    embed-resources: true
+---
+
+<div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
+
+<!-- COLONNA TESTO -->
+<div style="flex: 1 1 60ch; min-width: 300px;">
+
+*Note sulla Pianta de Rovigo (quella vera)*
+
+*(Pagina strappata dal taccuino di Tarcisio – con macchie d’umidità e vino nero)*
+
+---
+
+**1. Corte Malora**
+
+Una manciata de case senza tempo, su terra molle, in mezzo al niente. Non risulta su nessuna mappa recente, ma i sassi ghe xe ancora. Là, se sussurra forte anche se non ghe xe nessuno a parlare.
+
+---
+
+**2. Tangenziale Ovest (tratto dismesso)**
+
+Vecchio ramo asfaltà e poi abbandonà. Le carreggiate si piegano in modo sbagliato, come se qualcosa le avesse storte da sotto. Di giorno pare silenziosa, ma non la è mai del tutto.
+
+---
+
+**3. Vicolo Bàsico**
+
+Appare solo dopo certe curve fatte a piedi. Non compare su Google. I muri si piegano come se respirassero. Chi passa di lì… non dovrebbe fermarsi a guardare troppo.
+
+---
+
+**4. Campo delle Campane**
+
+Un campo vuoto, ma l’aria trema ogni tanto, come se una campana suonasse dentro le ossa. Nessun edificio attorno, solo vento e erba che non cresce mai tutta uguale.
+
+---
+
+**5. L’Albero Grando (detto “dei Documenti”)**
+
+Sta nel margine est della città. Troppo grande per esser vero, troppo solo per non essere notato. Ha radici che si spingono sotto la ferrovia e rami che sembrano voler toccare i fili della luce.
+
+---
+
+**6. Il Canale che No Sta Fermo**
+
+Va, ma non resta. Se lo vedi una volta, il giorno dopo non è più lì. Scorre in modo storto, a tratti controvento. L’acqua pare fredda anche in agosto.
+
+---
+
+*“Mi no so se Rovigo la xe maledetta o solo dimenticada. Ma ogni volta che torno a guardar la mappa… ghe manca qualcosa.”*
+
+*— Tarcisio*
+
+</div>
+
+<!-- COLONNA IMMAGINE -->
+<div style="flex: 1 1 300px; text-align: center; max-width: 500px;">
+  <img src="mappa.jpg" alt="Mappa di Rovigo" style="max-width: 100%; border: 1px solid #ccc; border-radius: 8px;">
+</div>
+
+</div>

@@ -1,5 +1,5 @@
 ---
-title: "Il Diario di Tarcisio, Esploratore di Rovigo"
+title: "“Il Santo che Non Voleva Morire”"
 format:
   html:
     css: "custom.css"
@@ -11,10 +11,27 @@ format:
     embed-resources: true
 ---
 
-# Prova
+**Datazione: ** Dodicesima sera – cielo fermo, vento senza nome
 
-## Prova prova
+**Luogo: ** Cappella di San Marzèo, nel cimitero vecchio
 
-### Prova Prova Prova
 
-prova prova prova prova
+**Annotazione n°4:**
+
+Il cimitero di Rovigo non è grande, ma cambia forma col tempo. Ogni volta che ci torno, trovo una lapide spostata, un nome nuovo inciso su pietre già consumate. Nessuno osa parlarne, ma tutti sanno che lì, nella cappella nord, riposa (o finge di riposare) San Marzèo.
+
+Un santo mai riconosciuto, ma molto temuto. Le sue ossa, si dice, non vogliono diventare polvere. Il corpo è chiuso in un’urna di vetro opaco, ma si vedono movimenti. Scatti. Come se respirasse ancora, di rado.
+
+Le cronache antiche dicono che fu condannato a vivere per sempre nel sonno, come punizione per aver benedetto troppe cose che non dovevano esserlo: pozzi secchi, cani rabbiosi, matrimoni senza amore.
+
+Ogni ventuno del mese, la cappella si riempie di candele spente. Nessuno le accende. Nessuno entra. Ma l’odore di cera bruciata rimane nell’aria. E qualcuno ha sentito bussare da dentro.
+
+Io ci sono entrato. Ho appoggiato la mano sull’urna. Fredda come una minaccia. Poi… il vetro ha appannato solo sotto la mia mano. E lì ho sentito tre parole, incise nel respiro:
+
+“No son finìo.”
+
+Sono scappato. Ma da quel giorno sogno una folla che prega in dialetto, inginocchiata davanti a una tomba vuota. E al centro… un uomo senza volto che benedice l’aria. Con la mia voce.
+
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="4.jpg" alt="Prima Nebbia" style="max-width: 50%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>

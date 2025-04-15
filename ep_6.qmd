@@ -1,5 +1,5 @@
 ---
-title: "Il Diario di Tarcisio, Esploratore di Rovigo"
+title: "La Porta Murata che Respira"
 format:
   html:
     css: "custom.css"
@@ -11,10 +11,28 @@ format:
     embed-resources: true
 ---
 
-# Prova
+**Datazione: ** Notte sedicesima – luna spenta, fame di pietra
 
-## Prova prova
+**Luogo: ** Vicolo Bàsico, zona che non compare sulle cartine dal 1983
 
-### Prova Prova Prova
 
-prova prova prova prova
+**Annotazione n°6:**
+
+Ci sono vicoli a Rovigo che nessuno percorre. Non per paura, ma perché… sembrano non esserci. Eppure stanotte ci sono finito dentro, come se la città stessa mi avesse voltato le spalle un momento e mi avesse lasciato scivolare tra le sue costole dimenticate.
+
+Il vicolo si chiama Bàsico. Così dice una targa mangiata dalla ruggine e dal tempo. È stretto, fatto di ciottoli umidi e muri che sudano. Non c’è luce. Solo una porta murata, incastonata in un muro di mattoni antichi, anneriti. Non ha maniglia. Non ha numero civico. Ma… respira.
+
+L’ho sentito chiaramente. Il muro si gonfia e si sgonfia come un petto che dorme male. E da dentro… un suono sordo. Come un uomo che parla nel sonno, ma non vuole essere ascoltato.
+
+I più vecchi la chiamano la Porta del Primo, e si dice che dietro ci sia chi ha fondato Rovigo dopo l’incidente sulla Valdastico. Colui che ha visto il mondo spezzarsi sull’asfalto e ha raccolto i pezzi per costruire questa città storta.
+Non è mai uscito da lì. Forse non è mai morto.
+
+Le leggende parlano chiaro: chi bussa tre volte, sente muoversi qualcosa. Chi bussa una quarta… lo sente rispondere.
+
+Non ho bussato. Non stanotte.
+
+Ma stamattina, nel muro vicino al mio letto, ho trovato tre segni impressi. Come nocche che hanno bussato piano. Dall’interno.
+
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="6.jpg" alt="Prima Nebbia" style="max-width: 50%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>

@@ -1,5 +1,5 @@
 ---
-title: "Il Diario di Tarcisio, Esploratore di Rovigo"
+title: "L’Albero dei Documenti Smarriti"
 format:
   html:
     css: "custom.css"
@@ -11,10 +11,27 @@ format:
     embed-resources: true
 ---
 
-# Prova
+**Datazione: ** Giorno quindici – piove carta bagnata
 
-## Prova prova
+**Luogo: ** Parco del Silenzio, oltre la rotatoria che gira da sola
 
-### Prova Prova Prova
 
-prova prova prova prova
+**Annotazione n°5:**
+
+Oggi ho trovato l’Albero.
+
+Non era segnato su nessuna mappa. Non c’erano sentieri. Solo erba alta e silenzio compatto. L’ho visto da lontano: secco, scorticato, eppure… vivo. Ma la cosa più strana non erano i rami. Era ciò che pendeva da essi.
+
+Carte. Fogli. Tessere. Documenti smarriti.
+
+Patenti mai ritirate. Tessere sanitarie di gente mai nata. Fatture. Certificati. Tutti appesi ai rami, come foglie morte che non vogliono cadere. Ogni foglio tremava appena, come se leggesse da solo il proprio contenuto.
+
+Mi sono avvicinato. Ho allungato la mano. E lì ho visto il mio nome, scritto su un modulo mai compilato. Una denuncia di smarrimento datata domani.
+
+Le leggende parlano di un albero nato dal peccato dell’oblio, piantato da qualcuno che voleva dimenticare tutto. Ma l’Albero non dimentica. Ricorda ogni cosa perduta. E se ti ci avvicini troppo… ti prende qualcosa in cambio.
+
+Mi sono allontanato in fretta. Ma ora la tasca del mio taccuino è vuota. E non ricordo più cos’avevo dentro.
+
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="5.jpg" alt="Prima Nebbia" style="max-width: 50%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>

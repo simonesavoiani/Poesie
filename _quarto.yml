@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  render: 
+  render:
     - index.qmd
     - home.qmd
     - ep_1.qmd
@@ -11,6 +11,11 @@ project:
     - ep_5.qmd
     - ep_6.qmd
     - ep_7.qmd
+    - ep_8.qmd
+    - info.qmd
+    - autori.qmd
+    - mappa.qmd
+
 
 website:
   title: "Il Diario di Tarcisio, Esploratore di Rovigo"
@@ -35,7 +40,13 @@ website:
         href: ep_6.qmd
       - text: "Settimana Leggenda"
         href: ep_7.qmd
-
+      - text: "Ottava Leggenda"
+        href: ep_8.qmd
+      - text: "---"  # crea una riga simile a un divisore
+        href: "#"
+      - text: "Mappa"
+        href: mappa.qmd
+        
 format:
   html:
     theme: default

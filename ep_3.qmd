@@ -1,5 +1,5 @@
 ---
-title: "Il Diario di Tarcisio, Esploratore di Rovigo"
+title: "La Campana che Piange di San Bagarìn"
 format:
   html:
     css: "custom.css"
@@ -11,10 +11,29 @@ format:
     embed-resources: true
 ---
 
-# Prova
+**Datazione: ** Giorno nono – o forse mezzogiorno lungo
 
-## Prova prova
+**Luogo: ** Zona Alta, dove Rovigo si arrampica su se stessa
 
-### Prova Prova Prova
 
-prova prova prova prova
+**Annotazione n°3:**
+
+Oggi sono salito fino alla chiesa di San Bagarìn. Una chiesa vera, antica, con le fondamenta scavate nella carne della collina. Nessuno sa più chi fosse Bagarìn. Qualcuno dice fosse un santo mai canonizzato, altri parlano di un contabile che fece miracoli fiscali. Ma tutti, qui, parlano della sua campana.
+
+La Campana che Piange.
+
+Sta muta tutto l’anno. Ma in certe giornate—umide, grigie, quando i piccioni volano bassi come rimorsi—si sente un suono metallico che scende giù per le strade come pianto strozzato. Non è il vento. Non è una corda tirata. È una lacrima fusa in bronzo.
+
+Mi hanno detto che ogni volta che suona, qualcuno perde qualcosa di importante: la direzione, un ricordo, una madre viva. Non si sa perché. Non si sa come. Ma io oggi l’ho sentita. Tre rintocchi bassi, come colpi di tosse da tomba.
+
+Una vecchia all’uscita della chiesa mi ha fissato e mi ha detto:
+
+“No te preoccupar, fio. Se te l’ha sentìa, xe perché te ghe servi. A la campana.”
+
+Poi ha sorriso. Aveva un dente solo, e luccicava come rame vecchio.
+
+Stasera scrivo in fretta. La campana… ha suonato di nuovo. Ma stavolta era dentro le pareti.
+
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="3.jpg" alt="Prima Nebbia" style="max-width: 50%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
