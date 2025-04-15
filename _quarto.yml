@@ -26,6 +26,8 @@ website:
     contents:
       - text: "Introduzione"
         href: home.qmd
+      - text: "Mappa"
+        href: mappa.qmd
       - text: "Prima Leggenda"
         href: ep_1.qmd
       - text: "Seconda Leggenda"
@@ -42,10 +44,6 @@ website:
         href: ep_7.qmd
       - text: "Ottava Leggenda"
         href: ep_8.qmd
-      - text: "---"  # crea una riga simile a un divisore
-        href: "#"
-      - text: "Mappa"
-        href: mappa.qmd
         
 format:
   html:
